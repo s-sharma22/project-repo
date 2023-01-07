@@ -5,7 +5,7 @@ This capstone project course will give you a taste of what data scientists go th
 ## OVERVIEW
 ### Collecting The Data 
 With API 
-With Web Scraping
+and Web Scraping
 ### Data Wrangling
 ### EDA with SQL
 ### EDA with Visualization
