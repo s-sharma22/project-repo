@@ -10,5 +10,5 @@ and Web Scraping
 ### EDA with SQL
 ### EDA with Visualization
 ### Visual Analytics with Folium
-###  Dashboard with Ploty
+###  Dashboard with Plotly
 ### Machine Learning Predictive Analysis
